@@ -1,8 +1,8 @@
 # RepoExercice
-Andreia 35yo
+- Andreia 35yo
 
-Blue
+- Blue
 
-Italian
+- Italian
 
-Cabeco (in my hometown); Dudu, Berlin
+- Cabeco (in my hometown); Dudu, Berlin
